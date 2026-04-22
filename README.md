@@ -41,11 +41,12 @@ Raw transactional data was cleaned before analysis:
 
 Before:
 
-![image.png](attachment:e243d31b-4a24-4580-b3fa-a183b6735210:image.png)
+<img width="1338" height="162" alt="Screenshot 2026-04-22 122047" src="https://github.com/user-attachments/assets/255d9954-361b-40fa-962c-ead3167c3b70" />
 
 After:
 
-![image.png](attachment:9aa700d9-7d21-476b-99a1-400b25cceb19:image.png)
+<img width="1089" height="98" alt="Screenshot 2026-04-22 122145" src="https://github.com/user-attachments/assets/58fca9cf-816e-455d-a2c0-64b6b39790bc" />
+
 
 **###**
 
@@ -81,14 +82,14 @@ Clustering is included to demonstrate the methodology and will produce sharper r
 <img width="890" height="533" alt="image" src="https://github.com/user-attachments/assets/92d0cebd-f97e-4a1c-b39a-891e3027458e" />
 
 **RFM customer count**
-Low valued customers     26
-Hibernating              14
-Loyal                    12
-Most valued customers    12
-Needs attention          10
-Potential                10
+Low valued customers     	26
+Hibernating              	14
+Loyal                    	12
+Most valued customers    	12
+Needs attention          	10
+Potential                	10
 At risk                   4
-New customers             2
+New customers             4
 
 Customer X was identified within the Most Valued Customers
 segment- highest frequency and monetary contribution.
@@ -99,15 +100,15 @@ But, given the payment delay risk, over-dependence on this segment is a business
 **Business Insights**
 
 **1. Don't build on one pillar**
-Customer X is valuable but risky. Delayed payments directly impact cash flow and material procurement. 
+- Customer X is valuable but risky. Delayed payments directly impact cash flow and material procurement. 
 The data confirms this is a single point of failure for the business.
 
 **2. Loyal customers are the real opportunity**
-12 customers sit in the Loyal segment, they're consistent buyers with good frequency. 
+- 12 customers sit in the Loyal segment, they're consistent buyers with good frequency. 
 These are the safest candidates to nurture and grow. Low effort but high trust already been established.
 
 **3. Potential customers need attention now**
-10 customers are classified as Potential. They are buying but not yet frequently. 
+- 10 customers are classified as Potential. They are buying but not yet frequently. 
 A small push like better service, priority delivery, relationship building could move them into Loyal or Most Valued over time.
 
 **4. Gradual diversification strategy**
